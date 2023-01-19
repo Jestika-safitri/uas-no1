@@ -1,0 +1,2 @@
+<h1 style="color: white">PETA LOKASI PT. indah perindo</h1>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1020732.6690311705!2d100.92241303147654!3d-2.0611348928202013!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e2da2f735c94f83%3A0x3039d80b220cb70!2sKabupaten%20Kerinci%2C%20Jambi!5e0!3m2!1sid!2sid!4v1674131825508!5m2!1sid!2sid" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
